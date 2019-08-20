@@ -2,10 +2,10 @@
 def twoSum(self, nums, target):
   if len(nums) <= 1:
     return false
-  l={}
+  d={}
   for i in range(len(nums)):
-    if nums[i] in l:
-      return [i, l[nums[i]]]
+    if nums[i] in d:
+      return [i, d[nums[i]]]
     else:
-      l[target - nums[i]] = i
+      d[target - nums[i]] = i
   
