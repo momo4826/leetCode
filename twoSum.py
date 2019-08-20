@@ -1,3 +1,4 @@
+#use dictionary
 def twoSum(self, nums, target):
   if len(nums) <= 1:
     return false
