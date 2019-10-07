@@ -21,8 +21,10 @@ class Solution(object):
             if l2:
                 v2 = l2.val
                 l2 = l2.next
-            carry, val = divmod(v1+v2+carry, 10)
+            carry, val = divmod(v1+v2+carry, 10) #divmod(7,2)==>(3,1)
             n.next = ListNode(val)
             n = n.next
         return root.next
         
+#时间复杂度O(n)
+#空间复杂度O(n)
