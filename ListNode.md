@@ -1,3 +1,4 @@
+```python
 class ListNode:
   def __init__(self, data): 
     # store data
@@ -5,3 +6,4 @@ class ListNode:
     # store the reference (next item)
     self.next = None
     return
+```
