@@ -12,7 +12,8 @@ class Solution(object):
         :rtype: ListNode
         """
         carry = 0
-        root = n = ListNode(0)
+        n = ListNode(0)
+        answer = n
         while l1 or l2 or carry:
             v1 = v2 = 0
             if l1:
@@ -21,10 +22,10 @@ class Solution(object):
             if l2:
                 v2 = l2.val
                 l2 = l2.next
-            carry, val = divmod(v1+v2+carry, 10) #divmod(7,2)==>(3,1)
+            carry, val = divmod(v1 + v2 + carry, 10)
             n.next = ListNode(val)
-            n = n.next
-        return root.next
+            n = n.next 
+        return answer.next
         
 #时间复杂度O(n)
 #空间复杂度O(n)
