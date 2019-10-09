@@ -1,3 +1,4 @@
+# time complexity O(log(m+n))
 # Method 1
 class Solution(object):
     def findMedianSortedArrays(self, nums1, nums2):
