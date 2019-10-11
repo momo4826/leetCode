@@ -1,6 +1,6 @@
 # leetCode
 ## Part 1
-### [ListNode](https://github.com/momo4826/leetCode/blob/master/ListNode.py)
+### [ListNode](https://github.com/momo4826/leetCode/blob/master/ListNode.md)
 ### [LRU](https://github.com/momo4826/leetCode/blob/master/LRU.md)
 
 ## Part 2
