@@ -3,6 +3,9 @@
 ### [ListNode](https://github.com/momo4826/leetCode/blob/master/ListNode.md)
 ### [LRU](https://github.com/momo4826/leetCode/blob/master/LRU.md)
 ### [DFS BFS](https://github.com/momo4826/leetCode/edit/master/DFSBFS.md)
+### [Heap](https://github.com/momo4826/leetCode/blob/master/Heap.md)
+### [Priority Queue](https://github.com/momo4826/leetCode/blob/master/PriorityQueue.md)
+
 
 ## Part 2
 ### [Two Sum](https://github.com/momo4826/leetCode/blob/master/twoSum.py)
