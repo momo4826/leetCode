@@ -5,6 +5,7 @@
 ### [DFS BFS](https://github.com/momo4826/leetCode/edit/master/DFSBFS.md)
 ### [Heap](https://github.com/momo4826/leetCode/blob/master/Heap.md)
 ### [Priority Queue](https://github.com/momo4826/leetCode/blob/master/PriorityQueue.md)
+### [Heap VS Stack](https://github.com/momo4826/leetCode/blob/master/HeapVSStack.md)
 
 
 ## Part 2
@@ -26,3 +27,4 @@
 ### [Reverse Linked List](https://github.com/momo4826/leetCode/blob/master/ReverseLinkedList.py)
 ### [Merge k Sorted Lists](https://github.com/momo4826/leetCode/blob/master/MergekSortedLists.py)
 ### [Valid Parentheses](https://github.com/momo4826/leetCode/blob/master/ValidParentheses.py)
+### [Merge Intervals](https://github.com/momo4826/leetCode/blob/master/MergeIntervals.py)
