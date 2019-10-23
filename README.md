@@ -1,8 +1,9 @@
 # leetCode
 ## Part 1
+### [collections Module in python](https://github.com/momo4826/leetCode/blob/master/collectionsModule.md)
 ### [ListNode](https://github.com/momo4826/leetCode/blob/master/ListNode.md)
 ### [LRU](https://github.com/momo4826/leetCode/blob/master/LRU.md)
-### [DFS BFS](https://github.com/momo4826/leetCode/edit/master/DFSBFS.md)
+### [DFS BFS](https://github.com/momo4826/leetCode/blob/master/DFSBFS.md)
 ### [Heap](https://github.com/momo4826/leetCode/blob/master/Heap.md)
 ### [Priority Queue](https://github.com/momo4826/leetCode/blob/master/PriorityQueue.md)
 ### [Heap VS Stack](https://github.com/momo4826/leetCode/blob/master/HeapVSStack.md)
@@ -29,3 +30,4 @@
 ### [Merge k Sorted Lists](https://github.com/momo4826/leetCode/blob/master/MergekSortedLists.py)
 ### [Valid Parentheses](https://github.com/momo4826/leetCode/blob/master/ValidParentheses.py)
 ### [Merge Intervals](https://github.com/momo4826/leetCode/blob/master/MergeIntervals.py)
+### [Minimum Window Substring](https://github.com/momo4826/leetCode/blob/master/MinimumWindowSubstring.py)
