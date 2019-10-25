@@ -1,5 +1,5 @@
 # leetCode
-## Part 1
+## Relevant Knowledge
 ### [collections Module in python](https://github.com/momo4826/leetCode/blob/master/collectionsModule.md)
 ### [ListNode](https://github.com/momo4826/leetCode/blob/master/ListNode.md)
 ### [LRU](https://github.com/momo4826/leetCode/blob/master/LRU.md)
@@ -9,7 +9,7 @@
 ### [Heap VS Stack](https://github.com/momo4826/leetCode/blob/master/HeapVSStack.md)
 
 
-## Part 2
+## Leetcode Problems
 ### [Two Sum](https://github.com/momo4826/leetCode/blob/master/twoSum.py)
 10.28
 ### [Add Two Numbers](https://github.com/momo4826/leetCode/blob/master/addTwoNumbers.py)
